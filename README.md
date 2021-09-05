@@ -16,7 +16,7 @@ License -> https://github.com/FayasNoushad/Requote-URL-Bot/blob/main/LICENSE
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/Image-Search-Bot/tree/main
+git clone https://github.com/FayasNoushad/Requote-URL-Bot/tree/main
 cd Requote-URL-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
