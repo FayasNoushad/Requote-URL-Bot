@@ -1,9 +1,3 @@
-# Requote-URL-Bot
-
-A requote url bot using requests.
-
----
-
 ```
 Made with Python3
 (C) @FayasNoushad
@@ -16,7 +10,7 @@ License -> https://github.com/FayasNoushad/Requote-URL-Bot/blob/main/LICENSE
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/Requote-URL-Bot/tree/main
+git clone https://github.com/FayasNoushad/Requote-URL-Bot.git
 cd Requote-URL-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -37,3 +31,5 @@ python3 main.py
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+---
